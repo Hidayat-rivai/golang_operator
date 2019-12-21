@@ -1,1 +1,4 @@
-# golang_operator
+# Operator
+- Aritmathic
+- Comparison
+- Logic
